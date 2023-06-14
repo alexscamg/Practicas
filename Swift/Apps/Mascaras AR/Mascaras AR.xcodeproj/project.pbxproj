@@ -18,9 +18,6 @@
 		A64E68802A30CC3800C6C882 /* MascaraDarthVader.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = A64E687F2A30CC3800C6C882 /* MascaraDarthVader.rcproject */; };
 		A64E68812A30CC3800C6C882 /* MascaraDarthVader.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = A64E687F2A30CC3800C6C882 /* MascaraDarthVader.rcproject */; };
 		A64E68822A30CC3800C6C882 /* MascaraDarthVader.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = A64E687F2A30CC3800C6C882 /* MascaraDarthVader.rcproject */; };
-		A64E68842A30CF4600C6C882 /* Prueba.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = A64E68832A30CF4600C6C882 /* Prueba.rcproject */; };
-		A64E68852A30CF4600C6C882 /* Prueba.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = A64E68832A30CF4600C6C882 /* Prueba.rcproject */; };
-		A64E68862A30CF4600C6C882 /* Prueba.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = A64E68832A30CF4600C6C882 /* Prueba.rcproject */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,7 +50,6 @@
 		A64E686C2A30CB1100C6C882 /* Mascaras_ARUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mascaras_ARUITests.swift; sourceTree = "<group>"; };
 		A64E686E2A30CB1100C6C882 /* Mascaras_ARUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mascaras_ARUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		A64E687F2A30CC3800C6C882 /* MascaraDarthVader.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = MascaraDarthVader.rcproject; sourceTree = "<group>"; };
-		A64E68832A30CF4600C6C882 /* Prueba.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = Prueba.rcproject; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,7 +104,6 @@
 				A64E68512A30CB0E00C6C882 /* ContentView.swift */,
 				A64E68532A30CB0E00C6C882 /* Experience.rcproject */,
 				A64E687F2A30CC3800C6C882 /* MascaraDarthVader.rcproject */,
-				A64E68832A30CF4600C6C882 /* Prueba.rcproject */,
 				A64E68552A30CB1100C6C882 /* Assets.xcassets */,
 				A64E68572A30CB1100C6C882 /* Preview Content */,
 			);
@@ -272,7 +267,6 @@
 			files = (
 				A64E68522A30CB0E00C6C882 /* ContentView.swift in Sources */,
 				A64E68502A30CB0E00C6C882 /* AppDelegate.swift in Sources */,
-				A64E68842A30CF4600C6C882 /* Prueba.rcproject in Sources */,
 				A64E68802A30CC3800C6C882 /* MascaraDarthVader.rcproject in Sources */,
 				A64E68542A30CB0E00C6C882 /* Experience.rcproject in Sources */,
 			);
@@ -284,7 +278,6 @@
 			files = (
 				A64E68812A30CC3800C6C882 /* MascaraDarthVader.rcproject in Sources */,
 				A64E68632A30CB1100C6C882 /* Mascaras_ARTests.swift in Sources */,
-				A64E68852A30CF4600C6C882 /* Prueba.rcproject in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -293,7 +286,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				A64E686F2A30CB1100C6C882 /* Mascaras_ARUITestsLaunchTests.swift in Sources */,
-				A64E68862A30CF4600C6C882 /* Prueba.rcproject in Sources */,
 				A64E686D2A30CB1100C6C882 /* Mascaras_ARUITests.swift in Sources */,
 				A64E68822A30CC3800C6C882 /* MascaraDarthVader.rcproject in Sources */,
 			);

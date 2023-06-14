@@ -18,7 +18,7 @@ struct TextMessageView: View {
                 
                 Spacer()
                 Text(message.text)
-                    .multilineTextAlignment(.trailing)
+                    .multilineTextAlignment(.leading)
                     .foregroundColor(.white)
                     .padding(.all, 10)
                     .background(

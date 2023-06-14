@@ -28,8 +28,11 @@ struct ContentView: View {
                 
                 Button{
                     Task{
-                        await viewModel.send(message: prompt)
-                         prompt = ""
+                        let mensaje = prompt
+                        prompt = ""
+                        await viewModel.send(message: mensaje)
+                        
+                        
                         
                     }
                 } label: {
